@@ -1,6 +1,4 @@
-package com.mymodule.task2;
-
-import com.mymodule.task2.Point;
+package com.sandbox.task2;
 
 public class PointMain {
     public static void main(String[] args) {

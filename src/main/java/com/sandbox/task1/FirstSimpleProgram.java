@@ -1,4 +1,4 @@
-package com.mymodule.task1;
+package com.sandbox.task1;
 
 public class FirstSimpleProgram {
     public static void main(String[] args) {

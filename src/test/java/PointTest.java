@@ -1,4 +1,4 @@
-import com.mymodule.task2.Point;
+import com.sandbox.task2.Point;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

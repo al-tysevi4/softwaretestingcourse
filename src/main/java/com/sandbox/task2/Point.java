@@ -1,4 +1,4 @@
-package com.mymodule.task2;
+package com.sandbox.task2;
 
 public class Point {
     private double a;
